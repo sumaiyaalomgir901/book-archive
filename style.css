@@ -1,0 +1,16 @@
+body {
+  background-image: url("book.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+#spinner {
+  display: none;
+}
+#spinner img {
+  margin-top: 10%;
+  width: 15%;
+}
+#error-msg {
+  display: none;
+}
